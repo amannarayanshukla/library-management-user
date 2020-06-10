@@ -1,0 +1,27 @@
+article {
+    font-family: 'Roboto', sans-serif;
+}
+.actionButton {
+    border-radius: 10px;
+    font-size: 13px;
+    background: #04C8DE;
+}
+.actionButton:hover {
+    background: #FF5EDF;
+}
+
+.option {
+    background: #e5e5e5;
+    padding: 10px;
+    width: 100%;
+}
+
+.duration {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+}

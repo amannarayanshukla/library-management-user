@@ -1,0 +1,15 @@
+.sign-out{
+    align-self: flex-start;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: large;
+    padding-right: 10px;
+    cursor: pointer;
+    transition: all ease-in 0.3s;
+}
+
+.sign-out:hover{
+    font-size: larger;
+    font-weight: 600;
+}
+
